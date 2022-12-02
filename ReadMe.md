@@ -34,4 +34,4 @@ Date: December 1, 2022
 
 ---
 
-This project is developing an interface to allow users to engage in game play.Based on the timeless game Dungeons and Dragon, and other popular choose your own adventure games such as Minecraft and Legend of Zelda: Breath of the Wild, we determined that a game that allows the user to engage in random experiences would maximize interest. We hope that this game brings **hours** of fun to audiences everywhere thanks it its simplistic, joyful nature. 
+This project is developing an interface to allow users to engage in game play. Based on the timeless game Dungeons and Dragon, and other popular choose your own adventure games such as Minecraft and Legend of Zelda: Breath of the Wild, we determined that a game that allows the user to engage in random experiences would maximize interest. We hope that this game brings **hours** of fun to audiences everywhere thanks it its simplistic, joyful nature. 

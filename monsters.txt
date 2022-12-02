@@ -1,0 +1,37 @@
+Animated Armor,1
+Bugbear,1
+Harpy,1
+Scarecrow,1
+Caroline,1
+Abby Lee,1
+Minotaur,2
+Owlbear,2
+🦗🦟🦗🦟🦗🦟,2
+Leprechaun,2
+Banshee,2
+Bella,2
+Wereboar,2
+Steve Buscemi,2
+Buc-ee's,2
+Giant Crocodile,3
+Troll,3
+Hobgoblin Warlord,3
+Mammoth,3
+OOP,3
+JOJO SIWA,3
+Stone Giant,4
+Night Hag,4
+Assassin,4
+Bianca,4
+Ellen DeGeneres,4
+Hydra,4
+Dumbledore,4
+Cloud Giant,5
+Chick Fill-a,5
+Silver Dragon,5
+Vampire,5
+Lich,5
+Micah,5
+Arnold Schwarzenegger,5
+CSCI 1300,5
+Demon,5

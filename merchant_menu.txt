@@ -1,0 +1,172 @@
+If you're looking to get supplies, you've come to the right place.
+I would be happy to part with some of my wares...for the proper price!
+
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 100
+| Ingredients | 0 kg
+| Cookware    | P: 0 | F: 0 | C: 0
+| Weapons     | C: 0 | S: 0 | R: 0 | B: 0 | L: 0
+| Armor       | 0
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+ 
+Choose one of the following:
+ 1. Ingredients: To make food, you have to cook raw ingredients.
+ 2. Cookware: You will need something to cook those ingredients.
+ 3. Weapons: It's dangerous to go alone, take this!
+ 4. Armor: If you want to survive monster attacks, you will need some armor.
+ 5. Sell treasures: If you find anything shiny, I would be happy to take it off your hands.
+ 6. Leave: Make sure you get everything you need, I'm leaving after this sale!
+
+> 2
+
+I have a several types of cookware, which one would you like?
+Each type has a different probability of breaking when used, marked with (XX%).
+
+Choose one of the following:
+ 1. (25%) Ceramic Pot [2 Gold]
+ 2. (10%) Frying Pan [10 Gold]
+ 3. ( 2%) Cauldron [20 Gold]
+ 4. Cancel
+
+> 3
+
+How many would you like? (Enter a positive integer, or 0 to cancel)
+
+> 1
+
+You want to buy 1 Cauldron(s) for 20 Gold? (y/n)
+
+> y
+
+Thank you for your patronage! What else can I get for you?
+
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 80
+| Ingredients | 0 kg
+| Cookware    | P: 0 | F: 0 | C: 1
+| Weapons     | C: 0 | S: 0 | R: 0 | B: 0 | L: 0
+| Armor       | 0
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+ 
+Choose one of the following:
+ 1. Ingredients: To make food, you have to cook raw ingredients.
+ 2. Cookware: You will need something to cook those ingredients.
+ 3. Weapons: It's dangerous to go alone, take this!
+ 4. Armor: If you want to survive monster attacks, you will need some armor.
+ 5. Sell treasures: If you find anything shiny, I would be happy to take it off your hands.
+ 6. Leave: Make sure you get everything you need, I'm leaving after this sale!
+
+> 1
+
+How many kg of ingredients do you need [1 Gold/kg]? (Enter a positive mulitple of 5, or 0 to cancel)
+
+> 30
+
+You want to buy 30 kg of ingredients for 30 Gold? (y/n)
+
+> y
+
+Thank you for your patronage! What else can I get for you?
+
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 50
+| Ingredients | 30 kg
+| Cookware    | P: 0 | F: 0 | C: 1
+| Weapons     | C: 0 | S: 0 | R: 0 | B: 0 | L: 0
+| Armor       | 0
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+ 
+Choose one of the following:
+ 1. Ingredients: To make food, you have to cook raw ingredients.
+ 2. Cookware: You will need something to cook those ingredients.
+ 3. Weapons: It's dangerous to go alone, take this!
+ 4. Armor: If you want to survive monster attacks, you will need some armor.
+ 5. Sell treasures: If you find anything shiny, I would be happy to take it off your hands.
+ 6. Leave: Make sure you get everything you need, I'm leaving after this sale!
+
+> 3
+
+I have a plentiful collection of weapons to choose from, what would you like?
+Note that some of them provide you a special bonus in combat, marked by a (+X).
+
+Choose one of the following:
+ 1. Stone Club [2 Gold]
+ 2. Iron Spear [2 Gold]
+ 3. (+1) Mythril Rapier [5 Gold]
+ 4. (+2) Flaming Battle-Axe [15 Gold]
+ 5. (+3) Vorpal Longsword [50 Gold]
+ 6. Cancel
+
+> 3
+
+How many would you like? (Enter a positive integer, or 0 to cancel)
+
+> 2
+
+You want to buy 2 (+1) Mythril Rapier(s) for 10 Gold? (y/n)
+
+> y
+
+Thank you for your patronage! What else can I get for you?
+
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 40
+| Ingredients | 30 kg
+| Cookware    | P: 0 | F: 0 | C: 1
+| Weapons     | C: 0 | S: 0 | R: 2 | B: 0 | L: 0
+| Armor       | 0
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+  
+Choose one of the following:
+ 1. Ingredients: To make food, you have to cook raw ingredients.
+ 2. Cookware: You will need something to cook those ingredients.
+ 3. Weapons: It's dangerous to go alone, take this!
+ 4. Armor: If you want to survive monster attacks, you will need some armor.
+ 5. Sell treasures: If you find anything shiny, I would be happy to take it off your hands.
+ 6. Leave: Make sure you get everything you need, I'm leaving after this sale!
+
+> 4
+
+How many suits of armor can I get you? (Enter a positive integer, or 0 to cancel)
+
+> 5
+
+You want to buy 5 suit(s) of armor for 25 Gold? (y/n)
+
+> y
+
+Thank you for your patronage! What else can I get for you?
+
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 15
+| Ingredients | 30 kg
+| Cookware    | P: 0 | F: 0 | C: 1
+| Weapons     | C: 0 | S: 0 | R: 2 | B: 0 | L: 0
+| Armor       | 5
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
+
+Choose one of the following:
+ 1. Ingredients: To make food, you have to cook raw ingredients.
+ 2. Cookware: You will need something to cook those ingredients.
+ 3. Weapons: It's dangerous to go alone, take this!
+ 4. Armor: If you want to survive monster attacks, you will need some armor.
+ 5. Sell treasures: If you find anything shiny, I would be happy to take it off your hands.
+ 6. Leave: Make sure you get everything you need, I'm leaving after this sale!
+
+> 6
+
+Are you sure you're finished? You won't be able to buy anything else from me! (y/n)
+
+> y
+
+Stay safe out there! Goodbye!
